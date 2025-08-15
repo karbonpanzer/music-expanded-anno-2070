@@ -1,0 +1,329 @@
+<?xml version="1.0" ?>
+<Defs>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_001</defName>
+        <label>Anno 2070 - Project Earth</label>
+        <clipPath>MusicExpanded/Anno2070/1-01. Project Earth</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_002</defName>
+        <label>Anno 2070 - Untamed</label>
+        <clipPath>MusicExpanded/Anno2070/1-02. Untamed</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_003</defName>
+        <label>Anno 2070 - A First Bridgehead</label>
+        <clipPath>MusicExpanded/Anno2070/1-03. A First Bridgehead</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_004</defName>
+        <label>Anno 2070 - Cascading Colours</label>
+        <clipPath>MusicExpanded/Anno2070/1-04. Cascading Colours</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_005</defName>
+        <label>Anno 2070 - Walking Barefoot</label>
+        <clipPath>MusicExpanded/Anno2070/1-05. Walking Barefoot</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_006</defName>
+        <label>Anno 2070 - Forces Of Nature</label>
+        <clipPath>MusicExpanded/Anno2070/1-06. Forces Of Nature</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_007</defName>
+        <label>Anno 2070 - A New Beginning</label>
+        <clipPath>MusicExpanded/Anno2070/1-07. A New Beginning</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_008</defName>
+        <label>Anno 2070 - Earth Sleeps</label>
+        <clipPath>MusicExpanded/Anno2070/1-08. Earth Sleeps</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_009</defName>
+        <label>Anno 2070 - Daydreaming in a Parking Lot</label>
+        <clipPath>MusicExpanded/Anno2070/1-09. Daydreaming in a Parking Lot</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_010</defName>
+        <label>Anno 2070 - Every Ending Needs a Beginning</label>
+        <clipPath>MusicExpanded/Anno2070/1-10. Every Ending Needs a Beginning</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_011</defName>
+        <label>Anno 2070 - The Diva Performs Tonight</label>
+        <clipPath>MusicExpanded/Anno2070/1-11. The Diva Performs Tonight</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_012</defName>
+        <label>Anno 2070 - The Last Sanctuary</label>
+        <clipPath>MusicExpanded/Anno2070/1-12. The Last Sanctuary</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_013</defName>
+        <label>Anno 2070 - Lifelines</label>
+        <clipPath>MusicExpanded/Anno2070/1-13. Lifelines</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_014</defName>
+        <label>Anno 2070 - Seamus and the Secret of Life</label>
+        <clipPath>MusicExpanded/Anno2070/1-14. Seamus and the Secret of Life</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_015</defName>
+        <label>Anno 2070 - Closer to God</label>
+        <clipPath>MusicExpanded/Anno2070/1-15. Closer to God</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_016</defName>
+        <label>Anno 2070 - We Will Carry You</label>
+        <clipPath>MusicExpanded/Anno2070/1-16. We Will Carry You</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_017</defName>
+        <label>Anno 2070 - Power Nap</label>
+        <clipPath>MusicExpanded/Anno2070/1-17. Power Nap</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_018</defName>
+        <label>Anno 2070 - Our Borrowed Time</label>
+        <clipPath>MusicExpanded/Anno2070/1-18. Our Borrowed Time</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_019</defName>
+        <label>Anno 2070 - Sheltered</label>
+        <clipPath>MusicExpanded/Anno2070/1-19. Sheltered</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_020</defName>
+        <label>Anno 2070 - A Future Named Hope</label>
+        <clipPath>MusicExpanded/Anno2070/1-20. A Future Named Hope</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_021</defName>
+        <label>Anno 2070 - Distant Shore</label>
+        <clipPath>MusicExpanded/Anno2070/1-21. Distant Shore</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_022</defName>
+        <label>Anno 2070 - Slumbering Hillside</label>
+        <clipPath>MusicExpanded/Anno2070/1-22. Slumbering Hillside</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_023</defName>
+        <label>Anno 2070 - There Is Light Below</label>
+        <clipPath>MusicExpanded/Anno2070/1-23. There Is Light Below</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_024</defName>
+        <label>Anno 2070 - Victorious</label>
+        <clipPath>MusicExpanded/Anno2070/1-24. Victorious</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_025</defName>
+        <label>Anno 2070 - Tumbling Raindrops</label>
+        <clipPath>MusicExpanded/Anno2070/1-25. Tumbling Raindrops</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_026</defName>
+        <label>Anno 2070 - An Elderly Woman Speaks</label>
+        <clipPath>MusicExpanded/Anno2070/1-26. An Elderly Woman Speaks</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_027</defName>
+        <label>Anno 2070 - A Helping Hand</label>
+        <clipPath>MusicExpanded/Anno2070/1-27. A Helping Hand</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_028</defName>
+        <label>Anno 2070 - World Beneath the Surface</label>
+        <clipPath>MusicExpanded/Anno2070/1-28. World Beneath the Surface</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_029</defName>
+        <label>Anno 2070 - What a Glorious View</label>
+        <clipPath>MusicExpanded/Anno2070/1-29. What a Glorious View</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_030</defName>
+        <label>Anno 2070 - God Smiles (Italian vocals)</label>
+        <clipPath>MusicExpanded/Anno2070/1-30. God Smiles (Italian vocals)</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_031</defName>
+        <label>Anno 2070 - Grinding Teeth</label>
+        <clipPath>MusicExpanded/Anno2070/2-01. Grinding Teeth</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_032</defName>
+        <label>Anno 2070 - Wasted Soil</label>
+        <clipPath>MusicExpanded/Anno2070/2-02. Wasted Soil</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_033</defName>
+        <label>Anno 2070 - Avoiding Morality</label>
+        <clipPath>MusicExpanded/Anno2070/2-03. Avoiding Morality</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_034</defName>
+        <label>Anno 2070 - Collateral Damage</label>
+        <clipPath>MusicExpanded/Anno2070/2-04. Collateral Damage</clipPath>
+        <cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_035</defName>
+        <label>Anno 2070 - Barracudas</label>
+        <clipPath>MusicExpanded/Anno2070/2-05. Barracudas</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_036</defName>
+        <label>Anno 2070 - Defeated</label>
+        <clipPath>MusicExpanded/Anno2070/2-06. Defeated</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_037</defName>
+        <label>Anno 2070 - Her Headache Is Gone</label>
+        <clipPath>MusicExpanded/Anno2070/2-07. Her Headache Is Gone</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_038</defName>
+        <label>Anno 2070 - Desolation Waltz</label>
+        <clipPath>MusicExpanded/Anno2070/2-08. Desolation Waltz</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_039</defName>
+        <label>Anno 2070 - Modern Times</label>
+        <clipPath>MusicExpanded/Anno2070/2-09. Modern Times</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_040</defName>
+        <label>Anno 2070 - Observe Your Neighbour</label>
+        <clipPath>MusicExpanded/Anno2070/2-10. Observe Your Neighbour</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_041</defName>
+        <label>Anno 2070 - Faceless Fear</label>
+        <clipPath>MusicExpanded/Anno2070/2-11. Faceless Fear</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_042</defName>
+        <label>Anno 2070 - Worlds End</label>
+        <clipPath>MusicExpanded/Anno2070/2-12. Worlds End</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_043</defName>
+        <label>Anno 2070 - The Black Tide</label>
+        <clipPath>MusicExpanded/Anno2070/2-13. The Black Tide</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_044</defName>
+        <label>Anno 2070 - Monolith</label>
+        <clipPath>MusicExpanded/Anno2070/2-14. Monolith</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_045</defName>
+        <label>Anno 2070 - Asymmetric Warfare</label>
+        <clipPath>MusicExpanded/Anno2070/2-15. Asymmetric Warfare</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_046</defName>
+        <label>Anno 2070 - Fluid Gold</label>
+        <clipPath>MusicExpanded/Anno2070/2-16. Fluid Gold</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_047</defName>
+        <label>Anno 2070 - Global Cure</label>
+        <clipPath>MusicExpanded/Anno2070/2-17. Global Cure</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_048</defName>
+        <label>Anno 2070 - Confidence</label>
+        <clipPath>MusicExpanded/Anno2070/2-18. Confidence</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_049</defName>
+        <label>Anno 2070 - Follow the Stream</label>
+        <clipPath>MusicExpanded/Anno2070/2-19. Follow the Stream</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_050</defName>
+        <label>Anno 2070 - Industrial Landscapes</label>
+        <clipPath>MusicExpanded/Anno2070/2-20. Industrial Landscapes</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_051</defName>
+        <label>Anno 2070 - The Ebashi Trench Mystery</label>
+        <clipPath>MusicExpanded/Anno2070/2-21. The Ebashi Trench Mystery</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_052</defName>
+        <label>Anno 2070 - Drowning Memories</label>
+        <clipPath>MusicExpanded/Anno2070/2-22. Drowning Memories</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_053</defName>
+        <label>Anno 2070 - The City Never Sleeps</label>
+        <clipPath>MusicExpanded/Anno2070/2-23. The City Never Sleeps</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_054</defName>
+        <label>Anno 2070 - Drone Predators</label>
+        <clipPath>MusicExpanded/Anno2070/2-24. Drone Predators</clipPath>
+        <cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_055</defName>
+        <label>Anno 2070 - Phoenix Rising</label>
+        <clipPath>MusicExpanded/Anno2070/2-25. Phoenix Rising</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_056</defName>
+        <label>Anno 2070 - Sweating Bullets</label>
+        <clipPath>MusicExpanded/Anno2070/2-26. Sweating Bullets</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_057</defName>
+        <label>Anno 2070 - Programmed to Rejoice</label>
+        <clipPath>MusicExpanded/Anno2070/2-27. Programmed to Rejoice</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_058</defName>
+        <label>Anno 2070 - Skylar’s Master Plan</label>
+        <clipPath>MusicExpanded/Anno2070/2-28. Skylars Master Plan</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_059</defName>
+        <label>Anno 2070 - Scorched Earth</label>
+        <clipPath>MusicExpanded/Anno2070/2-29. Scorched Earth</clipPath>
+        <cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_060</defName>
+        <label>Anno 2070 - The Old World Order</label>
+        <clipPath>MusicExpanded/Anno2070/2-30. The Old World Order</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_061</defName>
+        <label>Anno 2070 - There Is Blood on Her Hands</label>
+        <clipPath>MusicExpanded/Anno2070/2-31. There Is Blood on Her Hands</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_062</defName>
+        <label>Anno 2070 - The Signal</label>
+        <clipPath>MusicExpanded/Anno2070/2-32. The Signal</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_063</defName>
+        <label>Anno 2070 - Civilian Casualties</label>
+        <clipPath>MusicExpanded/Anno2070/2-33. Civilian Casualties</clipPath>
+        <cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>ANNO2070_064</defName>
+        <label>Anno 2070 - Where Are My Sleeping Pills</label>
+        <clipPath>MusicExpanded/Anno2070/2-34. Where Are My Sleeping Pills</clipPath>
+    </MusicExpanded.TrackDef>
+</Defs>
